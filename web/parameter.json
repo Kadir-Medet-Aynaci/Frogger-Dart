@@ -1,0 +1,824 @@
+[
+  {
+    "LevelId": 1,
+    "Area": [
+      "bank",
+      "street",
+      "grass",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      285,
+      75,
+      290,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "Truck",
+        "PosX": 300,
+        "PosY": 80,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 800,
+        "PosY": 140,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 300,
+        "PosY": 140,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 600,
+        "PosY": 200,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 0,
+        "PosY": 440,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 500,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 560,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 640,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 700,
+        "PosY": 640,
+        "Left": false
+      }]
+  },
+  {
+    "LevelId": 2,
+    "Area": [
+      "bank",
+      "street",
+      "grass",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      285,
+      75,
+      290,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "Truck",
+        "PosX": 300,
+        "PosY": 80,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 800,
+        "PosY": 140,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 300,
+        "PosY": 140,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 300,
+        "PosY": 200,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 600,
+        "PosY": 200,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 300,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 0,
+        "PosY": 440,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 500,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 400,
+        "PosY": 500,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 560,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 640,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 700,
+        "PosY": 640,
+        "Left": false
+      }]
+  },
+  {
+    "LevelId": 3,
+    "Area": [
+      "bank",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      650,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "Truck",
+        "PosX": 300,
+        "PosY": 80,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 800,
+        "PosY": 140,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 300,
+        "PosY": 200,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 600,
+        "PosY": 200,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 300,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 200,
+        "PosY": 370,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 0,
+        "PosY": 440,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 500,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 560,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 640,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 700,
+        "PosY": 640,
+        "Left": false
+      }]
+  },
+  {
+    "LevelId": 4,
+    "Area": [
+      "bank",
+      "street",
+      "grass",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      130,
+      75,
+      445,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "SportCar",
+        "PosX": 300,
+        "PosY": 80,
+        "Left": false
+      },
+      {
+        "Type": "SportCar",
+        "PosX": 800,
+        "PosY": 140,
+        "Left": true
+      },
+      {
+        "Type": "SportCar",
+        "PosX": 600,
+        "PosY": 140,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 290,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 200,
+        "PosY": 360,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 0,
+        "PosY": 440,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 440,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 510,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 570,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 640,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 700,
+        "PosY": 640,
+        "Left": false
+      }]
+  },
+  {
+    "LevelId": 5,
+    "Area": [
+      "bank",
+      "river",
+      "grass",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      250,
+      75,
+      325,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "Log",
+        "PosX": 300,
+        "PosY": 75,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 390,
+        "PosY": 125,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 530,
+        "PosY": 175,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 430,
+        "PosY": 225,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 500,
+        "PosY": 275,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 0,
+        "PosY": 440,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 500,
+        "PosY": 440,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 500,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 400,
+        "PosY": 500,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 560,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 640,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 650,
+        "PosY": 640,
+        "Left": true
+      }]
+  },
+  {
+    "LevelId": 6,
+    "Area": [
+      "bank",
+      "river",
+      "grass",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      250,
+      75,
+      325,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "Log",
+        "PosX": 500,
+        "PosY": 275,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 430,
+        "PosY": 225,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 210,
+        "PosY": 225,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 530,
+        "PosY": 175,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 150,
+        "PosY": 125,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 390,
+        "PosY": 125,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 300,
+        "PosY": 75,
+        "Left": false
+      },
+
+      {
+        "Type": "Truck",
+        "PosX": 0,
+        "PosY": 440,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 500,
+        "PosY": 440,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 500,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 300,
+        "PosY": 500,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 560,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 400,
+        "PosY": 640,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 650,
+        "PosY": 640,
+        "Left": false
+      }]
+  },
+  {
+    "LevelId": 7,
+    "Area": [
+      "bank",
+      "river",
+      "grass",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      250,
+      75,
+      325,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "Log",
+        "PosX": 470,
+        "PosY": 275,
+        "Left": false
+      },
+      {
+        "Type": "Log_Ladyfrog",
+        "PosX": 430,
+        "PosY": 225,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 210,
+        "PosY": 225,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 530,
+        "PosY": 175,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 150,
+        "PosY": 125,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 480,
+        "PosY": 125,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 350,
+        "PosY": 75,
+        "Left": false
+      },
+
+      {
+        "Type": "Truck",
+        "PosX": 0,
+        "PosY": 440,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 500,
+        "PosY": 440,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 100,
+        "PosY": 500,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 300,
+        "PosY": 500,
+        "Left": false
+      },
+      {
+        "Type": "Truck",
+        "PosX": 400,
+        "PosY": 560,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 100,
+        "PosY": 560,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 400,
+        "PosY": 640,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 650,
+        "PosY": 640,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 150,
+        "PosY": 640,
+        "Left": false
+      }]
+  },
+  {
+    "LevelId": 8,
+    "Area": [
+      "bank",
+      "river",
+      "grass",
+      "street",
+      "grass"
+    ],
+    "Height": [
+      75,
+      350,
+      75,
+      225,
+      75
+    ],
+    "Entities": [
+      {
+        "Type": "Turtle",
+        "PosX": 470,
+        "PosY": 375,
+        "Left": true
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 415,
+        "PosY": 375,
+        "Left": true
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 360,
+        "PosY": 375,
+        "Left": true
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 100,
+        "PosY": 325,
+        "Left": false
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 155,
+        "PosY": 325,
+        "Left": false
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 210,
+        "PosY": 325,
+        "Left": false
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 410,
+        "PosY": 325,
+        "Left": false
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 465,
+        "PosY": 325,
+        "Left": false
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 520,
+        "PosY": 325,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 100,
+        "PosY": 275,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 305,
+        "PosY": 275,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 510,
+        "PosY": 275,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 100,
+        "PosY": 225,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 400,
+        "PosY": 225,
+        "Left": false
+      },
+      {
+        "Type": "Log_Ladyfrog",
+        "PosX": 50,
+        "PosY": 175,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 500,
+        "PosY": 175,
+        "Left": false
+      },
+      {
+        "Type": "Log",
+        "PosX": 150,
+        "PosY": 125,
+        "Left": true
+      },
+      {
+        "Type": "Log",
+        "PosX": 350,
+        "PosY": 125,
+        "Left": true
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 250,
+        "PosY": 75,
+        "Left": true
+      },
+      {
+        "Type": "Turtle",
+        "PosX": 305,
+        "PosY": 75,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 305,
+        "PosY": 505,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 605,
+        "PosY": 505,
+        "Left": true
+      },
+      {
+        "Type": "SportCar",
+        "PosX": 605,
+        "PosY": 560,
+        "Left": false
+      },
+      {
+        "Type": "SportCar",
+        "PosX": 405,
+        "PosY": 560,
+        "Left": false
+      },
+      {
+        "Type": "Car",
+        "PosX": 205,
+        "PosY": 615,
+        "Left": true
+      },
+      {
+        "Type": "Car",
+        "PosX": 305,
+        "PosY": 615,
+        "Left": true
+      },
+      {
+        "Type": "Truck",
+        "PosX": 100,
+        "PosY": 670,
+        "Left": true
+      }
+    ,
+      {
+        "Type": "Truck",
+        "PosX": 500,
+        "PosY": 670,
+        "Left": true
+      }
+    ]
+  }
+]
