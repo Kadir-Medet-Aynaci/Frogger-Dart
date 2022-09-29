@@ -1,0 +1,16 @@
+name: froggerdart
+version: 0.1.0
+author: Kadir Medet Aynaci <kadir.medet.aynaci@stud.th-luebeck.de>
+description: A Dart implementation of the Retro Classic Game Frogger.
+homepage: https://git.mylab.th-luebeck.de/webtech/ss2022/kadir-medet-aynaci
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  http: ">=0.13.0 <1.0.0"
+
+dev_dependencies:
+  build_runner: ">=1.6.2 <2.0.0"
+  build_web_compilers: ">=1.2.0 <3.0.0"
+
